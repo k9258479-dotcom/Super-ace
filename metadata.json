@@ -1,0 +1,6 @@
+{
+  "name": "Super Ace Slot",
+  "description": "Authentic mobile slot machine featuring cascading card reels, golden card transformations, multipliers, free spins, and jackpot tiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
